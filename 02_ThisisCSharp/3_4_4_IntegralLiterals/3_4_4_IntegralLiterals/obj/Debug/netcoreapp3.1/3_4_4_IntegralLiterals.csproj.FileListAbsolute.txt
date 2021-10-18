@@ -1,0 +1,13 @@
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\bin\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.exe
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\bin\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.deps.json
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\bin\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.runtimeconfig.json
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\bin\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.runtimeconfig.dev.json
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\bin\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.dll
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\bin\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.pdb
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\obj\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.csprojAssemblyReference.cache
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\obj\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.AssemblyInfoInputs.cache
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\obj\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.AssemblyInfo.cs
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\obj\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.csproj.CoreCompileInputs.cache
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\obj\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.dll
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\obj\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.pdb
+C:\Users\kerne\OneDrive - 부산광역시교육청\4.소스\C_SharpPractice\02_ThisisCSharp\3_4_4_IntegralLiterals\3_4_4_IntegralLiterals\obj\Debug\netcoreapp3.1\3_4_4_IntegralLiterals.genruntimeconfig.cache
